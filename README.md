@@ -9,4 +9,4 @@ Image of my solution for desktop view: [Solution](/solution-screenshot.png)
 
 Image of my solution for mobile view(only for iphone x): [Solution](/ipx-screenshot.png)
 
-Solution URL: [url](https://darthsalad.github.io/stats-preview-card-component-main/)
+Solution URL(Published using Github pages): [url](https://darthsalad.github.io/stats-preview-card-component-main/)
