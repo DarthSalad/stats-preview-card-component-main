@@ -8,3 +8,5 @@ Web Dev Simplified, W3school, freecodecamp
 Image of my solution for desktop view: [Solution](/solution-screenshot.png)
 
 Image of my solution for mobile view(only for iphone x): [Solution](/ipx-screenshot.png)
+
+Solution URL: [Solution site](https://darthsalad.github.io/stats-preview-card-component-main/)
