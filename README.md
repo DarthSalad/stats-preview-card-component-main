@@ -5,5 +5,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Some sites/sources that I took help from:
 Web Dev Simplified, W3school, freecodecamp
 
-Image of my solution for desktop view: [Solution](/stats-preview-card-component-main/solution-screenshot.png)
-Image of my solution for mobile view(only for iphone x): [Solution](/stats-preview-card-component-main/ipx-screenshot.png)
+Image of my solution for desktop view: [Solution](/solution-screenshot.png)
+
+Image of my solution for mobile view(only for iphone x): [Solution](/ipx-screenshot.png)
