@@ -12,4 +12,4 @@ Web Dev Simplified, W3school, freecodecamp
 ![Block Diagram](ipx-screenshot.png)
 
 ### Solution URL(Published using Github pages): 
-[url](https://darthsalad.github.io/stats-preview-card-component-main/)
+[Link to my website](https://darthsalad.github.io/stats-preview-card-component-main/)
